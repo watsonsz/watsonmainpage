@@ -1,1 +1,2 @@
-# watsoninterface This is my hello world README. I am a hobbyist that thinks code is neato and want to learn more. Plus, having a tech-oriented fallback in case my current career falls flat is nice
+# watsoninterface 
+The files contained in this repository are going to be the GUI for my family and I to interface with my local FTP server. It will also be where I apply concepts and learning from FreeCodeCamp.org as I LEARN to code.
