@@ -1,2 +1,11 @@
-# watsoninterface 
-The files contained in this repository are going to be the GUI for my family and I to interface with my local FTP server. It will also be where I apply concepts and learning from FreeCodeCamp.org as I LEARN to code.
+Watsoninterface
+This Repository is for the ongoing project to code my FTP server for family and personal use.
+
+
+Goals Met:
+1. Code a visually pleasing main page for users to login to.
+
+Future Goals:
+1. Get FTP server up an running
+2. Get full functionality with login, upload, and download interfaces
+3. Set up visually pleasing pages for each user.
