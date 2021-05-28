@@ -1,11 +1,5 @@
-Watsoninterface
-This Repository is for the ongoing project to code my FTP server for family and personal use.
+[2123 5/24/2021]
+-In the current overhaul of the website CSS, I have done the Index, Header, Footer, login,  Signup, Granny, Oasis, Odyssey, and Welcome pack pages.
 
+-Pages to do: Cruise, Loyalty
 
-Goals Met:
-1. Code a visually pleasing main page for users to login to.
-
-Future Goals:
-1. Get FTP server up an running
-2. Get full functionality with login, upload, and download interfaces
-3. Set up visually pleasing pages for each user.

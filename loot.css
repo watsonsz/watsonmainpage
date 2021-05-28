@@ -1,0 +1,70 @@
+body{background: linear-gradient(black, #000099, #66c2ff, #ffcccc, #ffeee6);
+  background-repeat: no-repeat;
+  padding: 0;
+  margin: 0;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+overflow:auto;}
+nav {
+  margin-left: 2vw;
+  margin-right: 2vw;
+}
+header{align-content: center;
+      justify-content: center;
+  text-align:center;
+color:whitesmoke;
+font-family: Aclonica;}
+
+section{display:flex;
+  max-width: 600px;
+  align-content:center;
+  justify-content: center;
+  width: 40%;
+  padding:10%;
+  box-shadow: 0 5px 15px rgba(0,0,0,.5);
+  color: #000;
+  border-color: #000;
+  margin: 0 auto;
+  border-radius: 20%;
+  font-family: Aclonica; }
+ul{ list-style:none;
+  color:white;}
+a {color:white;
+ text-decoration:none;}
+
+a:hover {color:purple;}
+footer{text-align:center;
+  position: fixed;
+  bottom:0;
+  left:25vw;
+  right: 25vw;
+}
+img {
+  /* width:60%; */
+    max-width: 600px;
+    border-radius:20%;
+  display:flex;
+  justify-content: center;
+  align-content: center;
+  margin: 0 auto;}
+.download__page{display:flex;
+  max-width: 600px;
+  align-content:center;
+  justify-content: center;
+  width: 40%;
+  padding:3%;
+margin: 0 auto;}
+.download__links{color: #439A86;}
+.loots {padding: .3rem;}
+.nav__bar{display:flex;
+            justify-content: right;}
+.nav__buttons{padding:.2rem;
+              border-style:outset;
+              background:#44ffd1;
+              margin-right:1%;}
+.nav__buttons:hover {border-style:inset;}
+.form__label{text-align:center;
+    color:whitesmoke;
+    text-decoration: underline;}
